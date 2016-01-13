@@ -1,0 +1,28 @@
+.description {
+    padding: 20px 0;
+}
+
+.product-quantity {
+    width: 100px;
+}
+
+.product {
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(35, 35, 35, 0.54);
+}
+
+.product img{
+    width: 100%;
+    height: auto;
+}
+
+.price {
+    color: #ffffff;
+    font-size: 26.5px;
+    border-radius: 50%;
+    padding: 18px 0;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    background: #ec128d;
+}
